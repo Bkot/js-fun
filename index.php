@@ -83,6 +83,7 @@
                 $(".btn-lg").on('click', function(){
                     console.log('test test');
                 });
+                console.log('opening file');
             });
         </script>
     </body>
